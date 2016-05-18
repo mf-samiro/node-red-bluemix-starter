@@ -18,6 +18,6 @@
         "node-red-nodes-cf-sqldb-dashdb":"0.x"
     },
     "engines": {
-        "node": "0.12.x"
+        "node": "4.4.x"
     }
 }
